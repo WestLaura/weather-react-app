@@ -6,9 +6,15 @@ export default function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <Weather />
+      <footer>
+        This app was created by Laura 🙋🏻‍♀️ and is{" "}
+        <a
+          href="https://github.com/WestLaura/weather-react-app"
+          target="_blank"
+        >
+          open-sourced on GitHub
+        </a>
+      </footer>
     </div>
-    <footer>
-      This app was created by Laura 🙋🏻‍♀️ and is <a href= "https://github.com/WestLaura/weather-react-app" target="_blank">open-sourced on GitHub</a>
-    </footer>
   );
 }
