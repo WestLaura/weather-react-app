@@ -9,15 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by{" "}
-          <a
-            href="https://www.delac.io/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Laura W
-          </a>{" "}
-          and is{" "}
+          This project was coded by Laura W and is{" "}
           <a
             href="https://github.com/WestLaura/weather-react-app"
             target="_blank"
