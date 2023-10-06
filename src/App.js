@@ -26,7 +26,11 @@ export default function App() {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://playful-melba-fb0e79.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
