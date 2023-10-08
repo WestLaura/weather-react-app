@@ -9,21 +9,21 @@ export default function App() {
         <Weather defaultCity="London" />
 
         <footer>
-          This project was coded by Laura W and is{" "}
+          This project was coded by Laura W and is open-sourced on{" "}
           <a
-            href="https://github.com/WestLaura/weather-react-app"
+            href="https://https://github.com/WestLaura/weather-react-app.com/WestLaura/weather-react-app"
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced on GitHub
+            GitHub
           </a>{" "}
-          and{" "}
+          and hosted on{" "}
           <a
-            href="https://playful-melba-fb0e79.netlify.app/"
+            href="https://master--playful-melba-fb0e79.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            Netlify
           </a>
         </footer>
       </div>
